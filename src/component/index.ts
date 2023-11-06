@@ -1,3 +1,4 @@
-import { Hero } from "./Hero";
+import CustomsButton from "@/component/CustomsButton";
+import Hero from "./Hero";
 
-export { Hero };
+export { CustomsButton, Hero };
